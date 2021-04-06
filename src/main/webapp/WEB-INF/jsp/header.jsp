@@ -12,7 +12,7 @@
 </head>
 <body>
   <div class="container text-center">
-    <h1>Welcome to YRR Store</h1>      
+    <h1>Welcome to KITS store</h1>      
     <p>Browse all our awesome products</p>
   </div>
 
